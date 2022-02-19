@@ -1,0 +1,11 @@
+.idea
+bin
+assets
+*.mp3
+*.mp4
+*.txt
+*.jpeg
+*.jpg
+*.gif
+*.png
+*.exe
